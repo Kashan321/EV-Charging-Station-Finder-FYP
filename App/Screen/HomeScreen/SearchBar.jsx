@@ -32,7 +32,7 @@ export default function SearchBar({ searchedLocation }) {
         }}
 
         query={{
-          key: 'AIzaSyBsR-LGYrOR-u6vUlX7CuHUQz2-qZ9ceyE',
+          key: 'YOUR_GOOGLE_AUTOCOMPLETE_API_KEY',
           language: 'en',
         }}
 
@@ -44,5 +44,3 @@ export default function SearchBar({ searchedLocation }) {
   )
 }
 
-//AIzaSyBsR-LGYrOR-u6vUlX7CuHUQz2-qZ9ceyE
-// key: 'AIzaSyBsR-LGYrOR-u6vUlX7CuHUQz2-qZ9ceyE',
